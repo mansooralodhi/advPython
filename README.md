@@ -1,6 +1,6 @@
 # expertPython
 
-### Objective: 
+## Objective: 
    Experiment with advanced python features. 
     
 ### Key Features:
