@@ -1,6 +1,7 @@
 # expertPython
 
-## Guide to advanced python for professional coding !
-
+### Objective: Experiment with advanced python features. 
+    
 ### Key Features:
    -  Decorators
+
