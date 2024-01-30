@@ -5,7 +5,7 @@
     
 ### Learning Items:
    -  Decorators
-   -    Function Decorators
-   -    Class Decorators
-   -    Stacked Decorators
-   -    Wrappers
+         Function Decorators
+         Class Decorators
+         Stacked Decorators
+         Wrappers
