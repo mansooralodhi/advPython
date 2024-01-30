@@ -3,6 +3,6 @@
 ### Objective: 
    Experiment with advanced python features. 
     
-### Key Features:
+### Learning Items:
    -  Decorators
 
