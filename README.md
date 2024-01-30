@@ -1,6 +1,6 @@
 # expertPython
 
-## Learn advanced python features for professional coding !
+## Guide to advanced python for professional coding !
 
 ### Key Features:
    -  Decorators
