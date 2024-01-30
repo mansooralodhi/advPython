@@ -4,5 +4,6 @@
 
 Key Features:
   - Decorators
+    - Wrap
   - Logging
 
