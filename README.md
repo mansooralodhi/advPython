@@ -4,5 +4,9 @@
    Experiment with advanced python features. 
     
 ### Learning Items:
-   -  Decorators
+	-	Decorators
+		-	Function Decorators
+		-	Class Decorators
+		-	Stacked Decorators
+		-	Wrappers
 
