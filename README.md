@@ -3,7 +3,7 @@
 ### Objective: 
    Experiment with advanced python features. 
 
-
+<details>
  ** Learning Items ** 
 - Decorators
 	- Function Decorators
@@ -14,3 +14,4 @@
 	- NamedTuple
 	- Enum
 
+</details>
