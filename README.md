@@ -1,5 +1,3 @@
-# expertPython
-
 **Objective**:<br/>
 Experiment with advanced python features. 
 <details>	
