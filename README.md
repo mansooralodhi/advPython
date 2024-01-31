@@ -4,13 +4,13 @@
    Experiment with advanced python features. 
 
 <details open>
-<summary>Learning Items</summary>
-	- Decorators
+<summary>### Learning Items </summary>
+	* 	Decorators
 		-	Function Decorators
 		-	Class Decorators
 		-	Stacked Decorators
 		-	Wrappers
-	- Containers
+	* 	Containers
 		-	NamedTuple
-		- 	Enum
+		-	Enum
 </details>
