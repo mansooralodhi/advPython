@@ -3,8 +3,8 @@
 ### Objective: 
    Experiment with advanced python features. 
 
-<details open>
-<summary> ** Learning Items ** </summary>
+
+ ** Learning Items ** 
 - Decorators
 	- Function Decorators
 	- Class Decorators
@@ -13,4 +13,4 @@
 * Containers
 	- NamedTuple
 	- Enum
-</details>
+
