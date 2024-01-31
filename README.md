@@ -1,6 +1,6 @@
 **Objective**:<br/>
 Experiment with advanced python features. 
-<details>	
+<details open>	
   <summary> Topics </summary>
   
   - Decorators
