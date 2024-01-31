@@ -1,10 +1,8 @@
 # expertPython
 
-### Objective: 
-   Experiment with advanced python features. 
-
+**Objective**:<br/>
+Experiment with advanced python features. 
 <details>	
-	
   <summary> Topics </summary>
   
   - Decorators
