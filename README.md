@@ -2,8 +2,9 @@
 
 ### Objective: 
    Experiment with advanced python features. 
-    
-### Learning Items:
+
+<details open>
+<summary>Learning Items</summary>
 	- Decorators
 		-	Function Decorators
 		-	Class Decorators
@@ -12,3 +13,4 @@
 	- Containers
 		-	NamedTuple
 		- 	Enum
+</details>
