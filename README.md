@@ -1,5 +1,6 @@
-**Objective**:<br/>
+### Objective
 Experiment with advanced python features. 
+
 <details open>	
   <summary> Topics </summary>
   
