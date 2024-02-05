@@ -12,6 +12,7 @@ Experiment with advanced python features.
   - Containers
      - NamedTuple
      - Enum
+  - ContextManager
 
 </details>
 
