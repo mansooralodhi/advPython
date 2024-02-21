@@ -13,6 +13,7 @@ Experiment with advanced python features.
      - NamedTuple
      - Enum
   - ContextManager
-
+  - Memory Optimization
+    - slots
 </details>
 
