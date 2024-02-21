@@ -18,7 +18,6 @@ class Rabbit:
     def __init__(self, x, y, w):
         self.x = x
         self.y = y
-        self.w = 1
+        self.w = w  # not possible
 
 rabbit = Rabbit(1, 2, 3)
-# rabbit.w = 1
