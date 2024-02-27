@@ -14,6 +14,8 @@ Experiment with advanced python features.
      - Enum
   - ContextManager
   - OOP
-    - __ slots __
+    - Special Methods
+      - __ slots __
+      - __ new __
 </details>
 
