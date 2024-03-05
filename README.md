@@ -3,7 +3,7 @@ Experiment with advanced python features.
 
 <details open>	
   <summary> Topics </summary>
-  
+
   - Decorators
      - Function Decorators
      - Class Decorators
@@ -19,5 +19,7 @@ Experiment with advanced python features.
       - __ new __
   - NumPy
     - Subclassing
+  - Basics
+    - type vs isinstance
 </details>
 
