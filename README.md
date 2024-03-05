@@ -17,5 +17,7 @@ Experiment with advanced python features.
     - Special Methods
       - __ slots __
       - __ new __
+  - NumPy
+    - Subclassing
 </details>
 
