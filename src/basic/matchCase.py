@@ -1,4 +1,5 @@
 
+# alternative to switch statements
 
 def checkDtype(obj):
     match obj:

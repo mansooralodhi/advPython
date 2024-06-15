@@ -1,21 +1,26 @@
-
 class Rabbit:
     """
     Here we don't return anything from __new__
     """
+
     def __new__(cls, name='mans'):
         return
-    def __init__(self, name = "manso"):
+
+    def __init__(self, name="manso"):
         print("__init__")
 
-print(Rabbit()) # None
+
+print(Rabbit())  # None
+
+print('*' * 35)
 
 class EvenInteger(int):
     def __new__(cls, val):
         if val % 2 == 0: val = val + 1
         return super().__new__(cls, val)
 
-print(EvenInteger(10.34)) # 10 (NB: though we passed a float but we got an int).
+
+print(EvenInteger(10.34))  # 10 (NB: though we passed a float but we got an int).
 
 """
 Theory:
@@ -36,3 +41,19 @@ Take Away:
 3.  __new__ can not initialize instance attributes.
 
 """
+
+
+print("*" * 35)
+
+class A:
+    def __new__(cls, *args, **kwargs):
+        return cls
+
+class B(A):
+    def __new__(cls, *args, **kwargs):
+        obj = super().__new__(cls, *args, **kwargs)
+        # add additional properties
+        obj.name = 'Z'
+        return obj
+
+print(B().name)
