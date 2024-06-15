@@ -4,24 +4,30 @@ Experiment with advanced python features.
 <details open>	
   <summary> Topics </summary>
   
-  - Basics
+  - __Basics__
     - type or isinstance
     - built-in identifiers
     - switch cases
 
-  - NumPy
-    - sub-classing
+
       
-  - OOP
+  - __Obect-Oriented__
     - Special Methods
       - __ new __
       - __ slots __
+      - __ init __
+
+    - NumPy Oriented
+      - __ array_finalize __
+      - view casting
+      - new from template
+      - add attributes
         
-  - Containers
+  - __Containers__
      - enum
      - named-tuple
        
-  - Decorators
+  - __Decorators__
      - closures
      - function dec.
      - class dec.
@@ -29,11 +35,11 @@ Experiment with advanced python features.
      - parameterized dec.
      - wrappers
          
-  - Typing
+  - __Typing__
     - protocols
     - runtime checkables
       
-  - Context-Manager
+  - __Context-Manager__
      - e.g. cwd
      - e.g. file manager
        
