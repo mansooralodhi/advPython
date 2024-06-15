@@ -17,6 +17,8 @@ Experiment with advanced python features.
       - __ slots __
       - __ init __
 
+    - Decorators: setter/getter/deleter/property   
+
     - NumPy Oriented
       - __ array_finalize __
       - view casting
