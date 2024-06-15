@@ -1,6 +1,7 @@
 """
 This module provides direct access to all ‘built-in’ identifiers of Python;
 for example, builtins.map is the full name for the built-in function map().
+There is also another builtin method called 'slice' which may wish to explore.
 """
 import builtins
 
