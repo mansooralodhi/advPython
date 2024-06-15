@@ -3,24 +3,29 @@ Experiment with advanced python features.
 
 <details open>	
   <summary> Topics </summary>
-
-  - Decorators
-     - Function Decorators
-     - Class Decorators
-     - Stacked Decorators
-     - Wrappers
-  - Containers
-     - NamedTuple
-     - Enum
-  - ContextManager
-  - Builtins
+  
+  - Basics
+    - type or isinstance
+    - built-in identifiers
+    - switch cases
+  - NumPy
+    - sub-classing
   - OOP
     - Special Methods
-      - __ slots __
       - __ new __
-  - NumPy
-    - Subclassing
-  - Basics
-    - type vs isinstance
-</details>
+      - __ slots __
+  - Containers
+     - enum
+     - named-tuple
+  - Decorators
+     - closures
+     - function dec.
+     - class dec.
+     - stacked dec.
+     - wrappers
+  - Context-Manager
+     - e.g. cwd
+     - e.g. file manager
+   
+  </details>
 
