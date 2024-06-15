@@ -8,24 +8,35 @@ Experiment with advanced python features.
     - type or isinstance
     - built-in identifiers
     - switch cases
+
   - NumPy
     - sub-classing
+      
   - OOP
     - Special Methods
       - __ new __
       - __ slots __
+        
   - Containers
      - enum
      - named-tuple
+       
   - Decorators
      - closures
      - function dec.
      - class dec.
      - stacked dec.
+     - parameterized dec.
      - wrappers
+         
+  - Typing
+    - protocols
+    - runtime checkables
+      
   - Context-Manager
      - e.g. cwd
      - e.g. file manager
-   
+       
+  
   </details>
 
