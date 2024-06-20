@@ -46,8 +46,8 @@ Experiment with advanced python features.
      - e.g. file manager
 
   - __Function-Tools__
-     - e.g. cwd
-     - e.g. file manager
+     - partial
+     - e.g. 
   
   </details>
 
