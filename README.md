@@ -44,7 +44,10 @@ Experiment with advanced python features.
   - __Context-Manager__
      - e.g. cwd
      - e.g. file manager
-       
+
+  - __Function-Tools__
+     - e.g. cwd
+     - e.g. file manager
   
   </details>
 
