@@ -24,7 +24,9 @@ Experiment with advanced python features.
       - view casting
       - new from template
       - add attributes
-        
+
+    - Global & local variables
+
   - __Containers__
      - enum
      - named-tuple
