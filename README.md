@@ -41,11 +41,12 @@ Experiment with advanced python features.
       - new from template
       - add attributes
 
-  - __CustomLogger__
+  - __Logger__
     - add logs
     - distinguish errors/warning/fyi
     - assign numbering to logs 
-    - print logs in order of execution
+    - print logs in order of datetime
+    - write logs in separate file
   
   - __Containers__
      - enum
