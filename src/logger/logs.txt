@@ -1,0 +1,15 @@
+
+---------- [01:20:41 - 21/09/24] ----------
+[FYI: 1] Adding not possible !
+[FYI: 2] Adding 000  not possible !
+[Error: 1] Division not possible,  division by zero!
+[Warning: 1] Division not possible,  name 'b' is not defined!
+[FYI: 3] Multiplication not possible !
+[FYI: 4] Multiplication -1 not possible !
+---------- [01:15:05 - 21/09/24] ----------
+[FYI: 1] Adding not possible !
+[FYI: 2] Adding 000  not possible !
+[Error: 1] Division not possible,  division by zero!
+[Warning: 1] Division not possible,  name 'b' is not defined!
+[FYI: 3] Multiplication not possible !
+[FYI: 4] Multiplication -1 not possible !

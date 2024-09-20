@@ -1,7 +1,7 @@
 from logger import Logger
 
 
-class LoggerUseCase(Logger):
+class useCase(Logger):
     
 	def add(self):
 		self.fyiMessage = f"Adding not possible !"
@@ -23,9 +23,12 @@ class LoggerUseCase(Logger):
 
 
 if __name__ == "__main__":
-	logger = LoggerUseCase()
+	logger = useCase()
 	logger.add()
 	logger.divide()
 	logger.multiply()
-	print(logger.logs)
+	# print(logger.logs)
+	logfile = '/'.join(__file__.split("\\")[:-1]) + '/logs.txt'
+	print(logfile)
+	logger.writeLogs(logfile, append=True, position='top')
 
