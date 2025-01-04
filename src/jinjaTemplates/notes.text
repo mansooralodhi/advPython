@@ -1,0 +1,8 @@
+
+Reference: 
+    https://documentation.bloomreach.com/engagement/docs/jinja-syntax
+
+    
+-   In Jinja2, the | character is known as the pipe operator. It is used to apply filters to variables. 
+    Filters are functions that modify the value of a variable. For example, in the statement customer.first_name | title, 
+    the title filter is applied to customer.first_name, capitalizing the first letter of each word.

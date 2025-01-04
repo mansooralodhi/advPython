@@ -1,0 +1,10 @@
+{% set first_name =  "Sir/Madam" %}
+
+{% if customer['first_name'] %}
+    {% set first_name =  customer.first_name | title %}
+{% endif %}
+
+
+{%set name0. = " ".join((first_name, customer.last_name)) %}
+
+{{name}}
